@@ -10,3 +10,6 @@ Just recording.....
 ➩ learn Apps Script language
 
 ➩ how to make the Google Workspace automation
+
+
+◈ doGet方法以Query String的編碼方式
