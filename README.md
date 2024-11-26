@@ -1,6 +1,8 @@
 # Google-Apps-Script
 Just recording.....
 
+➩ integrate Google Workspace
+
 ➩ how to create shhet
 
 ➩ how to write in the data
